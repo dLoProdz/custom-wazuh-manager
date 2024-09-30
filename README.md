@@ -2,7 +2,7 @@
 <br>
 A modified Wazuh Manager 4.9.0 image build script to replace Filebeat with Fluent Bit for log shipping to Graylog.
 <br><br>
-Disclaimer: This will break your Wazuh Dashboard's hability to visualize data residing in your Indexer. Use Grafana instead to create dashboards and visualize your log data.
+Disclaimer: This will break your Wazuh Dashboard's ability to visualize data residing in your Indexer. Use Grafana instead to create dashboards and visualize your log data.
 <br><br>
 Build:
 <br>
