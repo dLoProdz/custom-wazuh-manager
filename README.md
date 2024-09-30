@@ -16,5 +16,5 @@ Still not working for initial implementation. Spin up your docker as described i
 <br>
 If you already have a working docker implementation all that is needed is to change the image in the docker compose file and you should be able to ship your logs to Graylog.
 <br><br>
-Huge shouout to <a href="https://github.com/socfortress">SOCFortress</a> and <a href="https://gist.github.com/taylorwalton">Taylor Walton</a> for their hard work and contributions to the open source community. And of course all credits to the <a href="https://github.com/wazuh">Wazuh Team</a> for their amazing product.
+Huge shoutout to <a href="https://github.com/socfortress">SOCFortress</a> and <a href="https://gist.github.com/taylorwalton">Taylor Walton</a> for their hard work and contributions to the open source community. And of course all credits to the <a href="https://github.com/wazuh">Wazuh Team</a> for their amazing product.
 
